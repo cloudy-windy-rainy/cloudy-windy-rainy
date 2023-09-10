@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # This is read me file
-#
+# C-lang Study note.
+
